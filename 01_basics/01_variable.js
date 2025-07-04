@@ -2,7 +2,7 @@ const accountId = 144553
 let accountEmail = "madhavaggarwal0001@gmail.com"
 var accountPassword = "12345"    
 /* 
-var is not used anymore due to scope issue
+var is not used anymore due to scope issue 
 */
 accountCity = "haridwar"
 

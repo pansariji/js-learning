@@ -1,4 +1,4 @@
-"use strict"; //treat all js code as newer version
+"use strict"; //treat all js code as newer version 
 
 //alert(3+3) // WE ARE USING NODEJS NOT BROWSER.
 
