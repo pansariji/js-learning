@@ -6,7 +6,7 @@ var is not used anymore due to scope issue
 */
 accountCity = "haridwar"
 
-// accountId = 2  #not allowed
+// accountId = 2  #not allowed.
 accountEmail = "hc@hc.com"
 accountPassword = "212121"
 accountCity = "roorkee"
