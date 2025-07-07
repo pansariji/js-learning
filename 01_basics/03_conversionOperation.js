@@ -1,4 +1,3 @@
-/*
 let score = "33abc"
 console.log(typeof score);
 let valueInNumber = Number(score)
@@ -30,10 +29,27 @@ console.log(typeof valueInBoolean);
 console.log(valueInBoolean);
 // 0=> false , 1=>true
 // "" => false, "abc" => true 
-*/
+
 
 //**************************OPERATIONS**************************//
 
 let value= 3
 let negValue = -value
 console.log(negValue)
+
+//postfix=> use first , change later
+let x = 3
+const y = x++
+console.log(x);
+
+//prefix => change first, use later
+let x2 = 3
+const y2 = ++x
+console.log(x,y);
+
+
+
+
+
+
+
