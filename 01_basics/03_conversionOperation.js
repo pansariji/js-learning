@@ -1,3 +1,4 @@
+/*
 let score = "33abc"
 console.log(typeof score);
 let valueInNumber = Number(score)
@@ -28,4 +29,11 @@ let valueInBoolean = Boolean(bolleanIsLoggedIn)
 console.log(typeof valueInBoolean);
 console.log(valueInBoolean);
 // 0=> false , 1=>true
-// "" => false, "abc" => true
+// "" => false, "abc" => true 
+*/
+
+//**************************OPERATIONS**************************//
+
+let value= 3
+let negValue = -value
+console.log(negValue)
