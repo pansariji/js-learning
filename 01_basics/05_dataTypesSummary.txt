@@ -1,0 +1,6 @@
+**********Primitive***********
+7 types : string, bollean, null, number, undefined, symbol, bigInt.
+
+
+**********Refrence(non-primitive)*********
+===> Array, Objects, Functions
